@@ -28,7 +28,8 @@ dependencies:
   google_sign_in_android: ^6.1.0
   google_sign_in_ios: ^5.5.0
   google_sign_in_macos: #^0.0.1
-    path: ./google_sign_in_macos
+    git:
+      url: https://github.com/Knightro63/google_sign_in_macos.git
   google_sign_in_platform_interface: ^2.2.0
   google_sign_in_web: ^0.11.0
 
